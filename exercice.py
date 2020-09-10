@@ -3,7 +3,7 @@
 def majuscule(mot):
     resultat = ''
     for lettre in mot:
-        if ord()
+        if 97 < ord(lettre)
             lettre = chr(ord(lettre)-32)
             resultat += lettre
     return resultat
