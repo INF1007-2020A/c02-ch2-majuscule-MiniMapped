@@ -18,7 +18,7 @@ if __name__ == '__main__':
         'bonjour',
         'eglantier',
         'arbre',
-        
+        '360 no-scope'
     ]
     for i in range(len(mots)):
         mots[i] = majuscule(mots[i])
